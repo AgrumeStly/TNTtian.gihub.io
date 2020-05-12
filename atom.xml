@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/TNTtian/C6H2CH3-NO2-3-HOME</id>
+    <id>https://TNTtian.gihub.io</id>
     <title>TNTの小窝</title>
-    <updated>2020-05-12T07:27:39.618Z</updated>
+    <updated>2020-05-12T07:37:23.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/TNTtian/C6H2CH3-NO2-3-HOME"/>
-    <link rel="self" href="https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/atom.xml"/>
+    <link rel="alternate" href="https://TNTtian.gihub.io"/>
+    <link rel="self" href="https://TNTtian.gihub.io/atom.xml"/>
     <subtitle>向着自己的梦想，前进！</subtitle>
-    <logo>https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/images/avatar.png</logo>
-    <icon>https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/favicon.ico</icon>
+    <logo>https://TNTtian.gihub.io/images/avatar.png</logo>
+    <icon>https://TNTtian.gihub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, TNTの小窝</rights>
     <entry>
         <title type="html"><![CDATA[杀蚂蚁]]></title>
-        <id>https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/post/sha-ma-yi/</id>
-        <link href="https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/post/sha-ma-yi/">
+        <id>https://TNTtian.gihub.io/post/sha-ma-yi/</id>
+        <link href="https://TNTtian.gihub.io/post/sha-ma-yi/">
         </link>
         <updated>2020-05-12T07:26:19.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[_TNT_]]></title>
-        <id>https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/post/_tnt_/</id>
-        <link href="https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/post/_tnt_/">
+        <id>https://TNTtian.gihub.io/post/_tnt_/</id>
+        <link href="https://TNTtian.gihub.io/post/_tnt_/">
         </link>
         <updated>2020-02-25T06:47:26.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/post/hello-gridea/</id>
-        <link href="https://github.com/TNTtian/C6H2CH3-NO2-3-HOME/post/hello-gridea/">
+        <id>https://TNTtian.gihub.io/post/hello-gridea/</id>
+        <link href="https://TNTtian.gihub.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
